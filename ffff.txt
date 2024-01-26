@@ -1,0 +1,18 @@
+<label><input type="radio" name="indoor-outdoor"> Indoor</label>
+    <label><input type="radio" name="indoor-outdoor"> Outdoor</label>   
+==================> multiple choice 
+
+_______________________________________________________________________________________
+    <button class="btn btn-block btn-primary"><i class="fas fa-thumbs-up"></i> Like</button>
+    </div>
+
+
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-info"><i class ="fas fa-info-circle">Info</i></button>
+    </div>
+
+
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-danger"><i class ="fas fa-trash">Delete</i></button>
+ ================================>Like button with hand ,info, trash bin
+________________________________________________________________________________________

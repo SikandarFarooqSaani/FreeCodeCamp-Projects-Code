@@ -1,0 +1,77 @@
+<div id= "main">
+  <h1 id= "title">
+    Muhammad Ali Sadpara
+  </h1>
+  
+<div id ="img-div">
+  <img id= "image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwzy7ZqlotAIYpZRuInNapJiLdirPp7GkLQ&usqp=CAU" alt="Muhammad Ali Sadpara hiking on snow covered mountain">
+  
+  <h2 id= "image caption">
+    Muhammad Ali Sadpara hiking a snow covered mountain </h2>
+  <p id= "Tribute Info">
+  Muhammad Ali Sadpara (Urdu: محمد علی سدپارہ‎; 2 February 1976 – February 2021)[2] was a Pakistani high-altitude mountaineer. He was part of the team (which included Italian alpinist Simone Moro) that successfully completed the first winter ascent to the summit of Nanga Parbat in 2016.[3] Sadpara successfully climbed a total of eight eight-thousanders throughout his career, four of which he had ascended in a single calendar year.[4]
+
+Sadpara, along with his 21-year-old son, Sajid (who had also climbed K2 in 2019), teamed up with Icelandic mountaineer John Snorri Sigurjónsson[5] and Chilean mountaineer Juan Pablo Mohr Prieto[6] for a joint-ascent of K2, and left the highest camp on the evening of 4 February 2021. Sajid was later forced to descend due an oxygen regulator malfunction,[7] leaving the other members of the team at the K2 Bottleneck, close to the summit. Sadpara, Sigurjónsson and Prieto continued their ascent to K2's summit, but did not return by night as planned, and were declared missing on 5 February 2021.[8][9] A rescue mission with two Pakistan Army helicopters was organized on 6 February 2021 to search for the team.[10][11][12]
+
+On 18 February 2021, Pakistani authorities announced that the three men were officially presumed dead, but the search for their remains would continue.[13][14] Sadpara's family also declared him as presumably dead on the same day.[15][16] On 26 July 2021, three bodies believed to be of the missing mountaineers were found on the slopes above Camp 4.[17][18] Sadpara's body was found around 300 meters (980 ft) below K2's Bottleneck.[19] The bodies were found by a Madison Mountaineering Sherpa Team fixing ropes above Camp 4.[20]
+  </p>  
+  <a href= "https://en.wikipedia.org/wiki/Ali_Sadpara" id="tribute-link" target= "_blank">
+    For More information  About Muhammad Ali Sadpara click here
+  </a>
+  </div>
+  
+  <p id= "name">
+    
+  By:
+    Sikandar Farooq Saani</p>
+  <p id= "gmail">
+   Gmail Address :sikandarfarooqsaani@gmail.com
+  </p>
+  
+  
+  
+</div>
+
+
+body {
+    text-align: center;
+}
+
+h1{
+  font-family: Fantasy;
+  font-size: 60px;
+  color: #006400;
+  background-color: #F6F0BC;
+
+h2{
+  color: #4B0082;
+  font-size: 30px;
+  font-family: Monospace;
+}
+
+#image
+{
+  height: 400px;
+  max-width: 100%;
+}
+p{
+  font-family: "Times New Roman";
+}
+
+#tribute-link
+{
+  font-family: Cursive;
+  font-size: 20px;
+}
+
+#name{
+  font-family: Georgia;
+  font-size: 15px;
+}
+#gmail{
+  font-family:Garamond;
+  fony-size: 13px;
+}
+
+
+

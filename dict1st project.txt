@@ -1,0 +1,11 @@
+DICTIONARY:
+
+what = ["Name", "Father Name", "AKA"]
+name = ['Sikandar','Farooq','Saani']
+data =dict(zip(what,name))
+data["loves"] = "Poetry"
+del data["loves"]
+print(data)
+
+___________________________________________________________________________________________
+

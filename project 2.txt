@@ -1,0 +1,183 @@
+<body id="body">
+<h1 id="title">
+  Survey form for Joining SGC
+</h1>
+<p id="description">
+Why You Want To be a Part of "Saani Group of Companies"
+</p>
+<form id ="suvey-form-main">
+<form id="survey-form">
+  <label id="name-labelM">NAME:</label>
+  <input type= "Text" placeholder ="Enter Your Name" id="name-label" required>
+</form>
+</input>
+<br>
+
+<form id= "survey-form2">
+ <label id="email-labelM"> Email: </label>
+  <input type="Text" placeholder = "Enter Your Email Adress" id="email-label" required>
+</form>
+  </input>
+<br>
+<form id= "survey-form3">
+ <label id="number-labelM"> Age: </label>
+  <input type="Number" placeholder = "Enter your Age" id="number-label" min "18" max"65"required>
+  </input>
+</form>
+<br>
+<label for#"dropdown" id="who-recommended-SGC"> Select Who Recomended SGC To You: </label>
+<select id="dropdown">
+  <option value="Friend">Friend</option>
+  <option value="Family">Family</option>
+  <option value="Social Media">Social Media </option>
+  <option value="Other">Other </option>
+  </select>
+  <br>
+<br>
+<label for="Sex" id="Sex1"> Select Gender </label>
+<input id="Sex2" type="radio" id="Male" name="Sex" value="Black">
+<label id="sex0" for="madel color"> MALE </label>
+<input id="Sex3" type="radio" id="FeMale" name="Sex" value="Black">
+<label id="sex01"for="madel color"> FEMALE </label>
+<input id="Sex4" type="radio" id="Other" name="Sex" value="Black">
+<label id="sex02" for="madel color"> OTHER </label>
+
+<br>
+<br>
+<h2 id="fazul"> Term and Conditions: </h2>
+<p id="farigh">
+  "We want Our every partner and collegue to be full cooperative with company as well as with the other collegues
+  <br>
+  We will provide you with every opportunity to jump in the bussiness field but you need to be dedicated to our work.
+  <br>
+  One should always obey schedule of timing 
+  <br>
+  You should complete your task on time as it is your responsibility other wise you will be dropped from company"
+</p>
+<br>
+
+<label for="TAC" id="TAC"> Do you accept terms and Conditions: </label>
+<br>
+<input id="checkbox" type="checkbox" name="TAC" value="Yes">
+<label for="checkbox"> Yes! I AGREE TO TERMS AND CONDITIONS </label>
+<br>
+<input id="checkbox" type="checkbox" name="TAC" value="No">
+<label for="checkbox"> NO! I DON'T AGREE TO TERMS AND CONDITIONS </label>
+
+<br>
+<br>
+<label id="additional-comment"> Additional Comment: </label>
+<br>
+<textarea id="textarea" name="instruction" rows="5" cols="40" min="20" max="60">
+    </textarea>
+<span class="counter">60</span>
+
+<br>
+<input id ="submit" type="submit" value="SUBMIT">
+    
+</form>
+</body>
+
+
+
+
+
+
+CSSSSSSSSSSSSSSSS
+#title {
+     text-align:center;
+     background-color:#515554;
+     font-family: tesla;
+    font-size: 50px;
+}
+#body{
+  background-color: grey;
+}
+#description{
+  font-size: 30px;
+  color: black;
+  font-family: tesla;
+  background-color:;
+  }
+#name-labelM{
+ 
+  font-size: 20px;
+}
+#name-label{
+  color:black;
+  font-size: 20px;
+  background-color:#D7DFDD
+}
+#email-labelM {
+   
+  font-size: 20px;
+}
+#email-label{
+  color:black;
+  font-size: 20px;
+  background-color:#D7DFDD
+}
+#number-labelM {
+   
+  font-size: 20px;
+}
+#number-label{
+  color:black;
+  font-size: 20px;
+  background-color:#D7DFDD
+}
+#who-recommended-SGC {
+
+  font-size: 18px;
+}
+#dropdown {
+  background-color:#D7DFDD;
+  font-size:20px;
+    
+}
+#Sex1 {
+  color:
+  font-size: 18px;
+}
+#sex0{
+   font-family:Fantasy;
+  font-size: 18px;
+}
+#sex01{
+   font-family:Fantasy;
+  font-size: 18px;
+}
+#sex02{
+   font-family:Fantasy;
+  font-size: 18px;
+}
+#Sex4{
+  background-color:#7293EF;
+  font-size:20px;
+}
+#farigh {
+  font-size:20px;
+}
+#fazul {
+  background-color:#515554;
+}
+#TAC {
+  font-size:20px;
+  font-family:Fantasy;
+  background-color:#515554;
+}
+#additional-comment {
+  font-size:20px;
+  font-family:Fantasy;
+  background-color:#515554;
+}
+#textarea {
+  background-color:#D7DFDD
+    
+}
+#submit{
+  background-color:#515554;
+    color: blue;
+   align:center;
+}
+
